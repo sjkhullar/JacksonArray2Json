@@ -1,0 +1,1 @@
+Convert array of objects to json and json to array of objects using jackson
